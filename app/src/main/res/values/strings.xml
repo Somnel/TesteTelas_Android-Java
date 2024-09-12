@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelasStaAndroidJava</string>
+    <string name="azul">Azul</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="preferColor">PreferCor</string>
+    <string name="valorAtual">valorTextView</string>
+</resources>
